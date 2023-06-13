@@ -1,0 +1,141 @@
+BasicInfo:
+  FirstName: Volodymyr
+  LastName: Korniienko
+  Photo: img/me.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +38 063 4824004
+    - Icon: fas fa-envelope
+      Info: vldmr.kornienko@gmail.com
+    - Icon: fab fa-telegram-plane
+      Info: volodymyr_k
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://vkorniienko.io" target="_blank">vkorniienko.io</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Ukraine
+
+#TODO
+Profile:  It's me
+
+Experience:
+  - Employer: Intive LLC
+    Place: Kyiv, Ukraine
+    Positions:
+      - Title: Senior Android Developer @ Synergy
+        Date: Feb 2023 - Present
+        Details: 
+          - OTT media service client for AndroidTV/FireTv platform
+        Badges: ['Android', 'Kotlin', 'Compose', 'ExoPlayer', 'Leanback']
+      - Title: Senior Android Developer @ LocalNow
+        Date: Jun 2022 - Feb 2023
+        Details: 
+          - OTT media service client for Android/AndroidTV/FireTv platform
+        Badges: ['Android', 'Kotlin', 'Compose', 'ExoPlayer', 'Leanback']
+      - Title: Senior Android Developer @ Joyn.de
+        Date: Oct 2021 - Jun 2022
+        Details: 
+          - OTT media service client for Android/AndroidTv/FireTv platform
+        Badges: ['Android', 'Kotlin', 'ExoPlayer', 'Leanback']
+  - Employer: Innovecs
+    Place: Kyiv, Ukraine
+    Positions:
+      - Title: Senior Android Developer @ Ummanu Health Ltd
+        Date: Aug 2017 - Oct 2021
+        Details:
+          - Being part of an agile team developed a telemedicine platform client from scratch
+          - Planning and estimations
+          - Design and development
+        Badges: ['Android', 'Kotlin', 'Clean Architecture', 'VoIP', 'WhiteLabel', 'GraphQL']
+      - Title: NodeJS developer @ Ummanu Health Ltd
+        Date: Mar 2020 - Sep 2020
+        Details:
+          - Took part in refactoring of huge distributed application built on microservices architecture
+          - Migrate Java microservices to nodeJS monolith app
+          - Maintaining Java microservice
+        Badges: ['NodeJS', 'TypeScript', 'Microservices', 'GraphQL']
+
+  - Employer: Playtech Ukraine
+    Place: Kyiv, Ukraine
+    Positions:
+      - Title: Android Team Lead
+        Date: Dec 2013 - May 2015
+        Details:
+          - Managed a team of 3 android developers
+          - Developed gambling application client from scratch
+          - Team management, KPI review
+        Badges: ['Android', 'Java', 'Gaming', 'WhiteLabel']
+      - Title: Senior Android Developer
+        Date: May 2015 - Aug 2017
+        Details:
+          - Highly configurable (white label) client for gambling platform
+          - Developed few gambling games using open source game framework. 
+          - Integration with 3rd-party services
+        Badges: ['Android', 'Java', 'Gaming', 'libGDX', 'WhiteLabel']
+
+  - Employer: Samsung R&D Ukraine
+    Place: Kyiv, Ukraine
+    Positions:
+      - Title: Android Developer
+        Date: Oct 2011 - Nov 2013
+        Details:
+          - E-Reading application design, development and support
+          - Legacy code support and maintenance
+        Badges: ['Java', 'Android']
+
+Education:
+  - Course: BSc & MSc in Information Security
+    Place: National Technical University of Ukraine “KPI” Institute of Physics and Technology
+    Date: 2007 - 2013
+
+Skills:
+  - Family: Android development stack
+    Items:
+      - Kotlin, Java
+      - Android Jetpack
+      - Coroutines, RxJava2
+      - Jetpack Compose
+      - DI with Hilt/Dagger2
+      - REST, WebSocket, graphQL
+      - Leanback
+      - ExoPlayer
+  - Family: Testing
+    Items:
+      - Unit tests
+      - Mockito
+      - mockk
+  - Family: Design principles
+    Items:
+      - Clean Architecture
+      - MVVM
+      - MVI
+  - Family: Dev Tools
+    Items:
+      - Git
+      - Github Actions
+      - Docker
+      - Jenkins
+  - Family: RDBMS
+    Items:
+      - sqlite
+      - postgreSQL
+  - Family: NodeJS stack
+    Items:
+      - nodeJS
+      - TypeScript
+      - graphQL
+      - typeORM
+
+Languages:
+  - Name: Ukrainian
+    Level: Native
+  - Name: English
+    Level: B2
+
+Interests:
+  - Hiking
+  - Skiing
+  - Cooking
+  - Movies
+  - Video Games
+  - Corgi
+  
