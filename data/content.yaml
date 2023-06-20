@@ -24,16 +24,21 @@ Experience:
         Date: Feb 2023 - Present
         Details: 
           - OTT media service client for AndroidTV/FireTv platform
+          - Implementing UI part for content rails and player, EPG, deep links, analytics
+          - Unit tests
         Badges: ['Android', 'Kotlin', 'Compose', 'ExoPlayer', 'Leanback']
       - Title: Senior Android Developer @ LocalNow
         Date: Jun 2022 - Feb 2023
         Details: 
-          - OTT media service client for Android/AndroidTV/FireTv platform
+          - OTT media service client for Android/AndroidTV/FireTv platform from scratch
+          - Implementing UI part for content rails and player, set up CI, analytics, Linear TV
         Badges: ['Android', 'Kotlin', 'Compose', 'ExoPlayer', 'Leanback']
       - Title: Senior Android Developer @ Joyn.de
         Date: Oct 2021 - Jun 2022
         Details: 
           - OTT media service client for Android/AndroidTv/FireTv platform
+          - "Working as a part on agile team. Taking part in scrum activities: refinement, planning, demo, retro."
+          - "Implementing features for Android TV/Fire OS/Android: Consent management, displaying content, etc." 
         Badges: ['Android', 'Kotlin', 'ExoPlayer', 'Leanback']
   - Employer: Innovecs
     Place: Kyiv, Ukraine
@@ -48,9 +53,9 @@ Experience:
       - Title: NodeJS developer @ Ummanu Health Ltd
         Date: Mar 2020 - Sep 2020
         Details:
-          - Took part in refactoring of huge distributed application built on microservices architecture
-          - Migrate Java microservices to nodeJS monolith app
-          - Maintaining Java microservice
+          - While android application development was postponed, took the initiative and participated in a large server side refactoring on telemedicine projects.
+          - Migrate Java microservices to monolith nodeJS application
+          - Setting up repositories and interfaces, writing CRUD queries
         Badges: ['NodeJS', 'TypeScript', 'Microservices', 'GraphQL']
 
   - Employer: Playtech Ukraine
