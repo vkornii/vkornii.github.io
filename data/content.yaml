@@ -23,7 +23,7 @@ Experience:
       - Title: Senior Android Developer @ Synergy
         Date: Feb 2023 - Present
         Details: 
-          - OTT media service client for AndroidTV/FireTv platform
+          - White Label OTT media service client for AndroidTV/FireTv platform
           - Implementing UI part for content rails and player, EPG, deep links, analytics
           - Unit tests
         Badges: ['Android', 'Kotlin', 'Compose', 'ExoPlayer', 'Leanback']
