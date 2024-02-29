@@ -17,11 +17,19 @@ BasicInfo:
 Profile:  As an accomplished Senior Android Developer with 10 years of experience, I am passionate about creating innovative and user-friendly mobile applications. My expertise lies in leveraging the latest technologies and frameworks to deliver high-quality solutions that meet and exceed client expectations. With a strong foundation in software development principles, I have successfully designed and implemented robust Android applications for diverse industries and platforms.
 
 Experience:
+  - Employer: Ukrsibbank
+    Place: Kyiv, Ukraine
+    Positions:
+      - Title: Senior Android Developer @ Ukrsibbank Online
+        Date: Oct 2024 - Prensent
+        Details: 
+          - Client application for internet banking
+        Badges: ['Android', 'Kotlin', 'Compose']
   - Employer: Intive LLC
     Place: Kyiv, Ukraine
     Positions:
       - Title: Senior Android Developer @ Synergy
-        Date: Feb 2023 - Present
+        Date: Feb 2023 - Oct 2024
         Details: 
           - White Label OTT media service client for AndroidTV/FireTv platform
           - Implementing UI part for content rails and player, EPG, deep links, analytics
